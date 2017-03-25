@@ -4361,5 +4361,6 @@ int main (int argc, char **argv)
         return 1;
     }
     
+    std::cout<"Print introduced to check git"<<std::endl;
     return 0;
 }
